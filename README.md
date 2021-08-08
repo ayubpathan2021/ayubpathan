@@ -2,6 +2,7 @@
 ### 🍀 ABOUT ME
 I'm Ayub, an aspiring Data Analyst
 I'm an experienced in research as well as engineering projects, team co-ordination as well as project handling.  
+
 Feeling excited and eager to deploy my skills and knowledge gained in an intensive full time Data Analytics Bootcamp @ Ironhaack. I could gain more insights as well as prcatical experience with several skills like Python (Pandas, Numpy, SKlearn),required Statistics, supervised & unsupervised learning, predicitve modelling, RDBMS - MySQL, Data mining, wrangling, Data scrapping (BeautifulSoup/API), Visualisation (Matplotlib, Plotly, Seaborn, Tableau), NLP & ML 
 
 Activley looking for new job; interested in Blockchain, ML, Research Oriented Projects  
