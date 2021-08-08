@@ -15,7 +15,7 @@ Project Engineer
 Hobbies:  
 :badminton:  :soccer:  :bicyclist:  :running_man:	
 
-------------------------
+---------------------------
 
 
 ### 💻  TOOLS & TECHNOLOGIES
